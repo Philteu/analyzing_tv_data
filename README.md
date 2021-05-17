@@ -1,3 +1,3 @@
 # Datacamp Project: Analyzing TV Data
 Use data manipulation and visualization to explore one of two different television broadcast datasets: The Super Bowl and hit sitcom The Office!
-!(Superbowl)[image/web-superbowl.jpg]
+![Superbowl](image/web-superbowl.jpg)
